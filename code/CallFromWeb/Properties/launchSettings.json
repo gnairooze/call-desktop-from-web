@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CallFromWeb": {
+      "commandName": "Project",
+      "commandLineArgs": "\"hi from args\""
+    }
+  }
+}
