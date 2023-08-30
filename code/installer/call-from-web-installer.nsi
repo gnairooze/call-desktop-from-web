@@ -114,5 +114,5 @@ Section "Uninstall"
   RMDir "$SMPROGRAMS\$StartMenuFolder"
   
   DeleteRegKey HKCU "Software\SimpleRashy\CallFromWeb"
-  DeleteRegKey HKCR "callfromweb"
+  DeleteRegKey HKCU "Software\Classes\callfromweb"
 SectionEnd
